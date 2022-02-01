@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f0131e;
+}
+
+.header {
+  width: 100%;
+}
+
+.headerStyle {
+  color: #aee6e3;
+}
+
+.comics {
+  margin-top: 140px;
+  margin-bottom: 60px;
+}
